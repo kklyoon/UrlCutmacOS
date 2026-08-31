@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>UrlCut macOS Updates</title>
+    <link>https://github.com/kklyoon/UrlCutmacOS</link>
+    <description>Most recent updates for UrlCut for macOS.</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.0.26</title>
+      <pubDate>Mon, 31 Aug 2026 22:08:59 +0900</pubDate>
+      <sparkle:releaseNotesLink>https://raw.githubusercontent.com/kklyoon/UrlCutmacOS/main/RELEASE_NOTES.md</sparkle:releaseNotesLink>
+      <enclosure
+        url="https://github.com/kklyoon/UrlCutmacOS/releases/download/v1.0.26/UrlCut.dmg"
+        sparkle:version="26083102"
+        sparkle:shortVersionString="1.0.26"
+        sparkle:os="macos"
+        length="28876101"
+        
+        type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
