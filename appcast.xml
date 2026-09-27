@@ -7,14 +7,14 @@
     <language>en</language>
     <item>
       <title>Version 1.0.27</title>
-      <pubDate>Thu, 24 Sep 2026 19:42:42 +0900</pubDate>
+      <pubDate>Sun, 27 Sep 2026 23:58:54 +0900</pubDate>
       <sparkle:releaseNotesLink>https://raw.githubusercontent.com/kklyoon/UrlCutmacOS/main/RELEASE_NOTES.md</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/kklyoon/UrlCutmacOS/releases/download/v1.0.27/UrlCut.dmg"
-        sparkle:version="26092402"
+        sparkle:version="26092701"
         sparkle:shortVersionString="1.0.27"
         sparkle:os="macos"
-        length="29260085"
+        length="29256594"
         
         type="application/octet-stream" />
     </item>
