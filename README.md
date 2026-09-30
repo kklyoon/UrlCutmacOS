@@ -9,7 +9,7 @@ UrlCut macOS 공식 배포 및 OTA(Sparkle) 피드 저장소입니다.
 
 ## 📥 다운로드 (Download)
 
-- **최신 릴리즈 다운로드**: [UrlCut.dmg (v1.0.28)](https://github.com/kklyoon/UrlCutmacOS/releases/download/v1.0.28/UrlCut.dmg)
+- **최신 릴리즈 다운로드**: [UrlCut.dmg (v1.0.29)](https://github.com/kklyoon/UrlCutmacOS/releases/download/v1.0.29/UrlCut.dmg)
 - **전체 릴리즈 목록**: [GitHub Releases](https://github.com/kklyoon/UrlCutmacOS/releases)
 
 ---
@@ -36,11 +36,9 @@ UrlCut macOS 앱은 **Sparkle** 프레임워크 기반 OTA 자동 업데이트�
 
 ---
 
-## 📝 최신 변경 사항 (v1.0.28)
+## 📝 최신 변경 사항 (v1.0.29)
 
-- deploy 파이프라인 병렬
-- 링크 URL 제외 텍스트 화이트톤 적용 및 폴더 칩/시트 스타일 개선
-- design.md 기반 brandGray 및 화이트톤 텍스트 토큰 추가와 다크 테마 기본화
-- 순수 텍스트 다국어 릴리즈 노트 생성 스크립트 및 에이전트 스킬 추가
-- 배포 완료 시 pubspec.yaml 버전 기반 Git 태그 자동 생성 및 테스트 추가
+- 전체 탭 새 링크 추가 시 직전 설정 폴더 기본 적용
+- 라이트 모드에서 링크 카드 폴더 라벨 텍스트가 보이도록 개선
+- AppTheme의 onPrimaryContainer 테마별 색상 분기 정의
 
