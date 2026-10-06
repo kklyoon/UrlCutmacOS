@@ -9,7 +9,7 @@ UrlCut macOS 공식 배포 및 OTA(Sparkle) 피드 저장소입니다.
 
 ## 📥 다운로드 (Download)
 
-- **최신 릴리즈 다운로드**: [UrlCut.dmg (v1.0.29)](https://github.com/kklyoon/UrlCutmacOS/releases/download/v1.0.29/UrlCut.dmg)
+- **최신 릴리즈 다운로드**: [UrlCut.dmg (v1.0.31)](https://github.com/kklyoon/UrlCutmacOS/releases/download/v1.0.31/UrlCut.dmg)
 - **전체 릴리즈 목록**: [GitHub Releases](https://github.com/kklyoon/UrlCutmacOS/releases)
 
 ---
@@ -36,9 +36,11 @@ UrlCut macOS 앱은 **Sparkle** 프레임워크 기반 OTA 자동 업데이트�
 
 ---
 
-## 📝 최신 변경 사항 (v1.0.29)
+## 📝 최신 변경 사항 (v1.0.31)
 
-- 전체 탭 새 링크 추가 시 직전 설정 폴더 기본 적용
-- 라이트 모드에서 링크 카드 폴더 라벨 텍스트가 보이도록 개선
-- AppTheme의 onPrimaryContainer 테마별 색상 분기 정의
+- 링크 카드에 X 및 Threads 미디어 다운로드 버튼 연동 및 다국어 지원
+- X(트위터) 및 Threads 사진/동영상 다운로드 서비스와 플랫폼 감지 기능 구현
+- Android 및 iOS 병렬 릴리즈 빌드 및 실행 스크립트와 에이전트 스킬 추가
+- 인스타그램 혼합 미디어 캐러셀 전체 파싱 및 다운로드 처리 개선
+- 갤러리 내 동일한 UrlCut 앨범에 사진과 영상이 함께 저장되도록 DCIM 경로 적용
 
