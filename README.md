@@ -9,7 +9,7 @@ UrlCut macOS 공식 배포 및 OTA(Sparkle) 피드 저장소입니다.
 
 ## 📥 다운로드 (Download)
 
-- **최신 릴리즈 다운로드**: [UrlCut.dmg (v1.0.32)](https://github.com/kklyoon/UrlCutmacOS/releases/download/v1.0.32/UrlCut.dmg)
+- **최신 릴리즈 다운로드**: [UrlCut.dmg (v1.0.34)](https://github.com/kklyoon/UrlCutmacOS/releases/download/v1.0.34/UrlCut.dmg)
 - **전체 릴리즈 목록**: [GitHub Releases](https://github.com/kklyoon/UrlCutmacOS/releases)
 
 ---
@@ -36,13 +36,13 @@ UrlCut macOS 앱은 **Sparkle** 프레임워크 기반 OTA 자동 업데이트�
 
 ---
 
-## 📝 최신 변경 사항 (v1.0.32)
+## 📝 최신 변경 사항 (v1.0.34)
 
+- Galaxy Z Fold 및 디스플레이 컷아웃(shortEdges) 테마 속성 추가
+- 설정 및 보조 화면 대화면 최대 너비 제약 및 SafeArea 보강
+- iPhone Duo 대시보드 2열 반응형 그리드 및 SafeArea FAB 배치 적용
 - 링크 카드 썸네일 로드 실패 시 자동 재조회 및 유튜브 hqdefault 폴백 연동
 - 만료 및 누락된 썸네일 자동 복원 및 재조회(refreshThumbnail) 기능 구현
 - 웹페이지 메타데이터 추출기 강화 및 인스타그램/스레드/유튜브 썸네일 개선
 - LinkRepository의 updateLink에 썸네일(imageUrl) 갱신 파라미터 추가
-- 링크 카드에 X 및 Threads 미디어 다운로드 버튼 연동 및 다국어 지원
-- X(트위터) 및 Threads 사진/동영상 다운로드 서비스와 플랫폼 감지 기능 구현
-- Android 및 iOS 병렬 릴리즈 빌드 및 실행 스크립트와 에이전트 스킬 추가
 
