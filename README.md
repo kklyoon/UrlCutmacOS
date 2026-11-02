@@ -9,7 +9,7 @@ UrlCut macOS 공식 배포 및 OTA(Sparkle) 피드 저장소입니다.
 
 ## 📥 다운로드 (Download)
 
-- **최신 릴리즈 다운로드**: [UrlCut.dmg (v1.0.34)](https://github.com/kklyoon/UrlCutmacOS/releases/download/v1.0.34/UrlCut.dmg)
+- **최신 릴리즈 다운로드**: [UrlCut.dmg (v1.0.35)](https://github.com/kklyoon/UrlCutmacOS/releases/download/v1.0.35/UrlCut.dmg)
 - **전체 릴리즈 목록**: [GitHub Releases](https://github.com/kklyoon/UrlCutmacOS/releases)
 
 ---
@@ -36,7 +36,7 @@ UrlCut macOS 앱은 **Sparkle** 프레임워크 기반 OTA 자동 업데이트�
 
 ---
 
-## 📝 최신 변경 사항 (v1.0.34)
+## 📝 최신 변경 사항 (v1.0.35)
 
 - Galaxy Z Fold 및 디스플레이 컷아웃(shortEdges) 테마 속성 추가
 - 설정 및 보조 화면 대화면 최대 너비 제약 및 SafeArea 보강
