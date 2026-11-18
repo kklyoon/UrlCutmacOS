@@ -38,11 +38,5 @@ UrlCut macOS 앱은 **Sparkle** 프레임워크 기반 OTA 자동 업데이트�
 
 ## 📝 최신 변경 사항 (v1.0.35)
 
-- Galaxy Z Fold 및 디스플레이 컷아웃(shortEdges) 테마 속성 추가
-- 설정 및 보조 화면 대화면 최대 너비 제약 및 SafeArea 보강
-- iPhone Duo 대시보드 2열 반응형 그리드 및 SafeArea FAB 배치 적용
-- 링크 카드 썸네일 로드 실패 시 자동 재조회 및 유튜브 hqdefault 폴백 연동
-- 만료 및 누락된 썸네일 자동 복원 및 재조회(refreshThumbnail) 기능 구현
-- 웹페이지 메타데이터 추출기 강화 및 인스타그램/스레드/유튜브 썸네일 개선
-- LinkRepository의 updateLink에 썸네일(imageUrl) 갱신 파라미터 추가
+- 안정성 및 배포 품질을 점검했습니다.
 
