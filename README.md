@@ -9,7 +9,7 @@ UrlCut macOS 공식 배포 및 OTA(Sparkle) 피드 저장소입니다.
 
 ## 📥 다운로드 (Download)
 
-- **최신 릴리즈 다운로드**: [UrlCut.dmg (v1.0.35)](https://github.com/kklyoon/UrlCutmacOS/releases/download/v1.0.35/UrlCut.dmg)
+- **최신 릴리즈 다운로드**: [UrlCut.dmg (v1.0.36)](https://github.com/kklyoon/UrlCutmacOS/releases/download/v1.0.36/UrlCut.dmg)
 - **전체 릴리즈 목록**: [GitHub Releases](https://github.com/kklyoon/UrlCutmacOS/releases)
 
 ---
@@ -36,7 +36,7 @@ UrlCut macOS 앱은 **Sparkle** 프레임워크 기반 OTA 자동 업데이트�
 
 ---
 
-## 📝 최신 변경 사항 (v1.0.35)
+## 📝 최신 변경 사항 (v1.0.36)
 
 - LinkCard 썸네일 캐시 이미지 프로바이더 적용 및 선제 캐싱 연동
 - 링크 삭제·수정·초기화 및 앱 시작 시 썸네일 캐시 생명주기 연동
